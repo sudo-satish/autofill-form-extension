@@ -1,0 +1,14 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
